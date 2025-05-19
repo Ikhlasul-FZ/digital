@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = 'https://ikhlasul-fz.github.io/digital/';
 $dbname = 'wedding_db';
 $username = 'root';
 $password = '';
